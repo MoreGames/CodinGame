@@ -1,0 +1,5 @@
+CC = gcc
+CFLAGS += -Wall -ansi -std=c99 -pedantic -lm
+
+%.o:%.c
+	$(CC) $(CFLAGS) -c $<

@@ -1,4 +1,4 @@
-# Makefile for GNU make
+DIRS = "./MP - Platinum Rift/source" "./Algorithms"
 
-all: 
-	gcc -Wall -ansi -std=c99 -pedantic -c ./Algorithms/Dijkstra.c -o ./Algorithms/Dijkstra.out"
+compile:
+	for i in $(DIRS); do make -c $$i; done
