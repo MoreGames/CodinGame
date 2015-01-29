@@ -1,4 +1,4 @@
-include ../../Makefile.rules
+include ../../MakefileC.rules
 
 OBJ = CodinGameFinal.o
 

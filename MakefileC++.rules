@@ -1,0 +1,5 @@
+CC = g++
+CFLAGS += -std=c++0x -lm
+
+%.o:%.cpp
+	$(CC) $(CFLAGS) -c $<
