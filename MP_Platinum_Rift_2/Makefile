@@ -1,5 +1,5 @@
 include ../MakefileC++.rules
 
-OBJ = CodinGameFinal.o CodinGameWeek1&2.o CodinGameWeek3&4.o
+OBJ = CodinGameFinal.o CodinGameWeek1_2.o CodinGameWeek3_4.o
 
 all: $(OBJ)
