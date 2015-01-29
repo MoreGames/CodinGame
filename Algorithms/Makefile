@@ -1,4 +1,4 @@
-include ../Makefile.rules
+include ../MakefileC.rules
 
 OBJ = Dijkstra.o BreathFirstSearch.o
 
