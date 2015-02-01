@@ -651,7 +651,7 @@ int cmp0Desc(const void *pa, const void *pb){
 	if (a[0]>b[0]) return -1;
 	return 0;
 }
-bool sortReinforcements(pair<int, int>& i, pair<int, int>& j) {
+bool sortReinforcements(const pair<int, int>& i, const pair<int, int>& j) {
 	return (i.first > j.first);
 }
 
