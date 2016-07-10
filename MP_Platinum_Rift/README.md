@@ -1,9 +1,9 @@
 CodinGame
 =========
 
-My submission for the AI CodinGame contest [Platinum Rift](http://www.codingame.com/multiplayer)
+My submission for the AI CodinGame contest [Platinum Rift](https://www.codingame.com/contests/finished)
 
-My bot finished 60th from over 1000 submissions (see the [final leaderboard](http://www.codingame.com/ranking-multiplayer/platinum-rift)).
+My bot finished 60th from over 1000 submissions (see the [final leaderboard](https://www.codingame.com/leaderboards/global/challenge/platinum-rift)).
 
 ###Links and Tools
 
